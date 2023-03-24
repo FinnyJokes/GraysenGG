@@ -62,6 +62,7 @@ body {
   overflow: hidden;
   border-radius: 50%;
   box-shadow: 0 0 0 5px #333, 0 0 0 15px #fff, 0 0 0 18px #111;
+  transform: trasition 5s ease-in-out;
 }
 
 .container .wheel .number {
