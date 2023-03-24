@@ -78,3 +78,11 @@ body {
   user-select: none;
   cursor: pointer;
 }
+.container .wheel .number span {
+  position: absolute;
+  transform: rotate(45deg);
+  font-size: 0.6em;
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 3px 5px 2px rgba(0, 0, 0, 0.15);
+}
