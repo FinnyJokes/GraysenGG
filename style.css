@@ -64,6 +64,7 @@ body {
   box-shadow: 0 0 0 5px #333, 0 0 0 15px #fff, 0 0 0 18px #111;
   transform: transition 5s ease-in-out;
 }
+/*what is wrong with this?*/
 
 .container .wheel .number {
   position: absolute;
