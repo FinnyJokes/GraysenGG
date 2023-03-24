@@ -23,10 +23,10 @@
 </body>
 <script>
   window.onload = function() {
-    let wheel = document.querySelector(".wheel");
-    let spinBtn = document.querySelector(".spinBtn");
+    let wheel = document.querySelector("wheel");
+    let spinbtn = document.querySelector("spinbtn");
     let value = Math.ceil(Math.random() * 3600);
-    spinBtn.onclick = function() {
+    spinbtn.onclick = function() {
       wheel.style.transform = "rotate(" + value + "deg)";
     };
   };
