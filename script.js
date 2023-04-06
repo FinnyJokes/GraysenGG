@@ -9,5 +9,5 @@ window.onload = function() { // onload is called when the page is fully loaded
     }; // end spinBtn.onclick
     value.toString(); // convert the value to a string
     value.parseInt(); // convert the value to an integer
+    alert('Hi!'); // alert the user
   }; // end window.onload
-  alert('Hi!');
