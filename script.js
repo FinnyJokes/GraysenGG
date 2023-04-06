@@ -10,4 +10,5 @@ window.onload = function() {
     value.toString();
     value.parseInt();
   };
-  window.alert('HI!!')
+  alert('HI!!');
+  
