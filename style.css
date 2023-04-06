@@ -82,7 +82,7 @@ body {
 }
 .container .wheel .number span {
   position: absolute;
-  transform: rotate(45deg);
+  transform: rotate(36deg);
   font-size: 0.6em;
   font-weight: 700;
   color: #fff;
