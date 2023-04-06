@@ -10,3 +10,4 @@ window.onload = function() { // onload is called when the page is fully loaded
     value.toString(); // convert the value to a string
     value.parseInt(); // convert the value to an integer
   }; // end window.onload
+  alert('Hi!');
